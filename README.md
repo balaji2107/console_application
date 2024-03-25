@@ -1,2 +1,19 @@
 # console_application
-<img width="500" alt="Screenshot 2024-01-04 100015" src="https://github.com/balaji2107/console_application/assets/160450669/121dbbbd-102d-4b9d-8681-23a7bcabd8ef">
+**Library Management**
+
+ **Frontend** & **Backend**: Java & Store Json File(Using Gson)
+
+ **Types Of Application**: B2C
+ **Target Audience**: Admin
+ **Tech Stack**: Java
+
+ **Admin**:
+ 	❖ Adminuser Login/Logout(session maintenance)
+ 	❖ Library setup with the basic details
+ 	❖ Addnewbooksto the library
+ 	❖ Newaccount creation for customer
+ 	❖ Showing books list to the user
+ 	❖ Assign books to the user with the return date
+ 	❖ Overdue books of all customers
+ 	❖ Managing the books
+ 	❖ Managing the user account
