@@ -4,7 +4,9 @@
  **Frontend** & **Backend**: Java & Store Json File(Using Gson)
 
  **Types Of Application**: B2C
+ 
  **Target Audience**: Admin
+ 
  **Tech Stack**: Java
 
  **Admin**:
