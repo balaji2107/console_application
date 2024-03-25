@@ -33,11 +33,11 @@
 
 ![Screenshot (21)](https://github.com/balaji2107/console_application/assets/160450669/4d326652-f48b-4b58-850f-1f2f14b01643)
 
-**Add Book**:
+**Manage Book**:
 
 ![Screenshot (27)](https://github.com/balaji2107/console_application/assets/160450669/de36d3e9-0257-486c-a190-8f22db1801ee)
 
-**Add User**: 
+**Manage User**: 
 
 ![Screenshot (28)](https://github.com/balaji2107/console_application/assets/160450669/83db6943-fb2b-4e60-9478-e7ba6083bfa4)
 
