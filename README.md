@@ -26,10 +26,10 @@
 **ScreenShot**:
    
 
-           ![Screenshot (18)](https://github.com/balaji2107/console_application/assets/160450669/1635708c-e06a-4382-ae2a-fe29f74d77c8)
-           ![Screenshot (27)](https://github.com/balaji2107/console_application/assets/160450669/1ff17bb2-38d0-4ff7-848e-2ec856eecf47)
-           ![Screenshot (21)](https://github.com/balaji2107/console_application/assets/160450669/10ad5a18-ea44-4040-9ed4-fb3b92caff22)
-           ![Screenshot (28)](https://github.com/balaji2107/console_application/assets/160450669/9ee93cda-2b5e-4a59-b62d-95ca7185f4b5)
-            ![Screenshot (29)](https://github.com/balaji2107/console_application/assets/160450669/f3eedb0c-3110-4051-938e-5142df02cedd)
+![Screenshot (18)](https://github.com/balaji2107/console_application/assets/160450669/7b8bfd57-5f0e-4968-a5e6-58535997f303)
 
+![Screenshot (21)](https://github.com/balaji2107/console_application/assets/160450669/4d326652-f48b-4b58-850f-1f2f14b01643)
+
+
+          
 
