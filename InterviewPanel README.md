@@ -21,4 +21,33 @@
 
 **Admin and Interviewer Login**:
 
+![Screenshot (30)](https://github.com/balaji2107/console_application/assets/160450669/c54aec1c-25d2-43e1-8f51-01ec010d2298)
+
+**Company Setup**:
+
+![Screenshot (31)](https://github.com/balaji2107/console_application/assets/160450669/9430309e-44b1-4545-b75b-5f44f0e5c90e)
+
+**Manage Interviewer**
+
+![Screenshot (32)](https://github.com/balaji2107/console_application/assets/160450669/a9c50507-b40a-4284-aba3-858a084f0686)
+
+**Manage Candidate**
+
+![Screenshot (33)](https://github.com/balaji2107/console_application/assets/160450669/75b87d7a-db4f-4cae-a877-12d518e2a27f)
+
+**Interview Schedule**
+
+![Screenshot (35)](https://github.com/balaji2107/console_application/assets/160450669/13e1e2af-937d-41a5-abdf-af4861f88a7c)
+
+**Interviewer Login & Start Interviewer**
+
+![Screenshot (34)](https://github.com/balaji2107/console_application/assets/160450669/6da71db8-caf8-407e-9eb5-f73815524611)
+
+
+
+
+
+
+
+
 
